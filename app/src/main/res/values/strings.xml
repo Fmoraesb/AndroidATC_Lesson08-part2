@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidATC - Atividades da Lesson08 - Parte 2</string>
+    <string name="menu_item01">Android Application Development Course</string>
+    <string name="menu_item02">Android Security Essentials Course</string>
+    <string name="menu_item03">Android Applications UI/UX Design Course</string>
+    <string name="lbl_Site">"Site do Stack Overflow</string>
+</resources>
